@@ -9,7 +9,7 @@ export const dataShoes = [
     shortDescription:
       "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
     quantity: 995,
-    image: "http://svcy3.myclass.vn/images/adidas-prophere.png",
+    image: "./img/adidas-prophere.png",
   },
   {
     id: 2,
@@ -21,7 +21,7 @@ export const dataShoes = [
     shortDescription:
       "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
     quantity: 990,
-    image: "http://svcy3.myclass.vn/images/adidas-prophere-black-white.png",
+    image: "./img/adidas-prophere-black-white.png",
   },
   {
     id: 3,
@@ -33,7 +33,7 @@ export const dataShoes = [
     shortDescription:
       "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
     quantity: 415,
-    image: "http://svcy3.myclass.vn/images/adidas-prophere-customize.png",
+    image: "./img/adidas-prophere-customize.png",
   },
   {
     id: 4,
@@ -45,7 +45,7 @@ export const dataShoes = [
     shortDescription:
       "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
     quantity: 542,
-    image: "http://svcy3.myclass.vn/images/adidas-super-star-red.png",
+    image: "./img/adidas-super-star-red.png",
   },
   {
     id: 5,
@@ -57,7 +57,7 @@ export const dataShoes = [
     shortDescription:
       "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
     quantity: 674,
-    image: "http://svcy3.myclass.vn/images/adidas-swift-run.png",
+    image: "./img/adidas-swift-run.png",
   },
   {
     id: 6,
@@ -69,7 +69,7 @@ export const dataShoes = [
     shortDescription:
       "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
     quantity: 456,
-    image: "http://svcy3.myclass.vn/images/adidas-tenisky-super-star.png",
+    image: "./img/adidas-tenisky-super-star.png",
   },
   {
     id: 7,
@@ -81,7 +81,7 @@ export const dataShoes = [
     shortDescription:
       "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
     quantity: 854,
-    image: "http://svcy3.myclass.vn/images/adidas-ultraboost-4.png",
+    image: "./img/adidas-ultraboost-4.png",
   },
   {
     id: 8,
@@ -93,7 +93,7 @@ export const dataShoes = [
     shortDescription:
       "The midsole contains 20% more Boost for an amplified Boost feeling.\r\n\r\n",
     quantity: 524,
-    image: "http://svcy3.myclass.vn/images/adidas-yeezy-350.png",
+    image: "./img/adidas-yeezy-350.png",
   },
   {
     id: 9,
@@ -104,7 +104,7 @@ export const dataShoes = [
       "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
     shortDescription: "Paul George is the rare high-percentage shooter",
     quantity: 599,
-    image: "http://svcy3.myclass.vn/images/nike-adapt-bb.png",
+    image: "./img/nike-adapt-bb.png",
   },
   {
     id: 10,
@@ -115,7 +115,7 @@ export const dataShoes = [
       "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
     shortDescription: "Paul George is the rare high-percentage shooter",
     quantity: 984,
-    image: "http://svcy3.myclass.vn/images/nike-air-max-97.png",
+    image: "./img/nike-air-max-97.png",
   },
   {
     id: 11,
@@ -126,7 +126,7 @@ export const dataShoes = [
       "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
     shortDescription: "Paul George is the rare high-percentage shooter",
     quantity: 875,
-    image: "http://svcy3.myclass.vn/images/nike-air-max-97-blue.png",
+    image: "./img/nike-air-max-97-blue.png",
   },
   {
     id: 12,
@@ -137,6 +137,6 @@ export const dataShoes = [
       "Nike shoe is the rare high-percentage shooter who's also a coach's dream on D. Designed for his unrivaled 2-way game, the PG 4 unveils a new cushioning system that's lightweight, articulated and responsive, ideal for players like PG who go hard every play.\r\n\r\n",
     shortDescription: "Paul George is the rare high-percentage shooter",
     quantity: 445,
-    image: "http://svcy3.myclass.vn/images/nike-air-max-270-react.png",
+    image: "./img/nike-air-max-270-react.png",
   },
 ];
