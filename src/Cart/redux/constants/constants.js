@@ -1,0 +1,3 @@
+export const CHI_TIET_SAN_PHAM = "CHI_TIET_SAN_PHAM";
+export const THEM_SAN_PHAM = "THEM_SAN_PHAM";
+export const THAY_DOI_SO_LUONG = "THAY_DOI_SO_LUONG";
