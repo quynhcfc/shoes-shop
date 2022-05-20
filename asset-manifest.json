@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/shoes-shop/static/css/main.5210e5a5.css",
-    "main.js": "/shoes-shop/static/js/main.a8e8db2f.js",
-    "static/js/787.68ef9eba.chunk.js": "/shoes-shop/static/js/787.68ef9eba.chunk.js",
-    "index.html": "/shoes-shop/index.html",
-    "main.5210e5a5.css.map": "/shoes-shop/static/css/main.5210e5a5.css.map",
-    "main.a8e8db2f.js.map": "/shoes-shop/static/js/main.a8e8db2f.js.map",
-    "787.68ef9eba.chunk.js.map": "/shoes-shop/static/js/787.68ef9eba.chunk.js.map"
+    "main.css": "/BasicShoesCart/static/css/main.5210e5a5.css",
+    "main.js": "/BasicShoesCart/static/js/main.d12b6152.js",
+    "static/js/787.68ef9eba.chunk.js": "/BasicShoesCart/static/js/787.68ef9eba.chunk.js",
+    "index.html": "/BasicShoesCart/index.html",
+    "main.5210e5a5.css.map": "/BasicShoesCart/static/css/main.5210e5a5.css.map",
+    "main.d12b6152.js.map": "/BasicShoesCart/static/js/main.d12b6152.js.map",
+    "787.68ef9eba.chunk.js.map": "/BasicShoesCart/static/js/787.68ef9eba.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5210e5a5.css",
-    "static/js/main.a8e8db2f.js"
+    "static/js/main.d12b6152.js"
   ]
 }
